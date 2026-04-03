@@ -5,5 +5,6 @@ addition = value1+value2
 print("addition of value1 and value2 is",addition)
 substraction = value1-value2
 print(substraction)
-
+multiplication = value1*value2
+print("multiplication of value1 and value2 is",multiplication)
 
