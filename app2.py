@@ -1,6 +1,7 @@
 print('this app2.py created by developer1')
 print('this app2.py created by developer1')
-a=10
-b=20
-print(a+b)
+v1=10
+v2=20
+print(v1+v2)
+
 
