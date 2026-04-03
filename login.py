@@ -6,3 +6,4 @@ if username==defualt_user and password==defualt_password:
     print("login successful")
 else:
     print("login failed")
+print("login successful")
