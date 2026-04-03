@@ -1,7 +1,7 @@
 print('this app2.py created by developer1')
-v1=10
-v2=20
-print(v1+v2)
-
+value1=10
+value2=20
+result = value1+value2
+print(result)
 
 
