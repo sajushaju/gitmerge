@@ -7,3 +7,4 @@ if username==u and password==p:
     print("login successful")
 else:
     print("login failed")
+print("login successful")
