@@ -1,2 +1,2 @@
 print('write your crud logic here')
-method="get"
+method="put"
