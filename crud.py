@@ -1,1 +1,1 @@
-print('crud module logic here')
+print('write your crud logic here')
