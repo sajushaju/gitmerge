@@ -3,5 +3,5 @@ method="put"
 method="post"
 update_method="put"
 add_method="get"
-delete_method="delete"
+remove_method="delete"
 
