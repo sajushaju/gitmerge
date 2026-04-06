@@ -4,7 +4,11 @@ lastname = "shajahan"
 userType = "admin"
 username = "sajna123"
 password = "123456"
-print(firstname,lastname,userType,username,password)
+print("first name :",firstname)
+print("last name:",lastname)
+print("usertype:",userType)
+print("username:",username)
+
 
 
 
