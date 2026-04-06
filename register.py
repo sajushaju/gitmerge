@@ -1,5 +1,5 @@
 print('this is register module. please write register logic here')
-firstname = "sajna"
+firstname = "saju"
 lastname = "shajahan"
 userType = "admin"
 username = "sajna123"
