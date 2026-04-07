@@ -1,6 +1,6 @@
-print("developer1 added print statement")
-print("developer1 updated")
-name = "sajna shajahan"
+print("main added print statement")
+print("main updated")
+name = "admin"
 print("client name is ",name)
 print("Main branch update")
 print("login feature created")
