@@ -1,3 +1,6 @@
+print("main added print statement")
+print("main updated")
+name = "admin"
 print("dev added print statement")
 print("dev1 updated")
 name = "dev1"
